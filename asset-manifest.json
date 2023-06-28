@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AssignmentIncubyte/static/css/main.92b6161b.css",
+    "main.js": "/AssignmentIncubyte/static/js/main.638ff23b.js",
+    "static/media/Creative team-pana 1.png": "/AssignmentIncubyte/static/media/Creative team-pana 1.4ad5ea2af650a50565f0.png",
+    "static/media/Frame 18.png": "/AssignmentIncubyte/static/media/Frame 18.0094e3448e9921d281e1.png",
+    "index.html": "/AssignmentIncubyte/index.html",
+    "main.92b6161b.css.map": "/AssignmentIncubyte/static/css/main.92b6161b.css.map",
+    "main.638ff23b.js.map": "/AssignmentIncubyte/static/js/main.638ff23b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b6161b.css",
+    "static/js/main.638ff23b.js"
+  ]
+}
